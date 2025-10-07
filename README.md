@@ -19,12 +19,13 @@ I made it becazse i really want a mechanical keyboard and always wanted to make 
 | 4      | pcs  | M3x16mm Screws                                               |
 | 4      | pcs  | M3 Heat Inserts                                              |
 | 99     | pcs  | Through Hole 1N4148 Diodes                                   |
-| 1      | Set  | [Durock V3 Stabs](https:77kineticlabs.com/misc/durock/v2-stabilizers) |
+| 1      | Set  | [Durock V3 Stabs](https://kineticlabs.com/misc/durock/v2-stabilizers) |
 | 1      | pcs  | Orpheus pico with headers                                    |
 | 1      | pcs  | PCB                                                          |
 | 1      | pcs  | Top Frame 3D Printed in Gray                                 |
 | 1      | pcs  | Plate 3D Printed in Red                                      |
 | 1      | pcs  | Bottom 3D Printed in Beige                                   |
+
 
 
 
