@@ -20,10 +20,11 @@ I made it becazse i really want a mechanical keyboard and always wanted to make 
 
 
 
-![](img\assembly.png)
+![](img/assembly.png)
 
-![](img\case.png)
+![](img/case.png)
 
-![](img\pcb.png)
+![](img/pcb.png)
 
-![](img\schematic.png)
+![](img/schematic.png)
+
